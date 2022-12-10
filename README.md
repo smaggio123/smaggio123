@@ -1,7 +1,4 @@
-
-
 <!--
-### Hi there 👋
 **smaggio123/smaggio123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,13 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--### :fire: MyStats :-->
 <div align="center">
-<h1>Welcome!</h1>
+<h1>Welcome! 👋</h1>
 <hr/>
 <h2>GitHub Stats:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smaggio123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smaggio123&layout=compact&theme=vision-friendly-dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smaggio123&count_private=false&theme=radical)](https://github.com/smaggio123/github-readme-stats)
 <br/>
@@ -43,7 +39,7 @@ Here are some ideas to get you started:
 <div align="left">
 <p>References to Replicate Read.me</p>
 <ul>
-<li><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub for stat cards</a></li>
+<li><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub for Stat Cards</a></li>
 <li><a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Pointed me to GitHub Link</a></li>
 <li><a href="https://www.sitepoint.com/github-profile-readme/" target="_blank">Language/Framework Icons</a></li>
 </ul>
