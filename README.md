@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <p>References to Replicate Read.me</p>
 <ul>
 <li><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub for Stat Cards</a></li>
-<li><a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7">Pointed me to GitHub Link</a></li>
+<li><a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7" target="_blank">Pointed me to GitHub Link</a></li>
 <li><a href="https://www.sitepoint.com/github-profile-readme/" target="_blank">Language/Framework Icons</a></li>
 </ul>
 </div>
