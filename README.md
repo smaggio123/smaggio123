@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1>Welcome!</h1>
 <hr/>
-<h2>Here are my GitHub Stats:</h2>
+<h2>GitHub Stats:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smaggio123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaggio123&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h2>Project Shoutouts</h2>
+<h2>Favorite Personal Projects</h2>
 <h3><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;Java:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smaggio123&repo=Network-Info-To-XML)](https://github.com/smaggio123/Network-Info-To-XML)
