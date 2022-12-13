@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smaggio123&repo=Mastermind-Angular)](https://github.com/smaggio123/Mastermind-Angular)
 
 <div align="left">
-<p>References to Replicate Read.me</p>
+<p>References to Replicate Readme</p>
 <ul>
 <li><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub for Stat Cards</a></li>
 <li><a href="https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7" target="_blank">Pointed me to GitHub Link</a></li>
