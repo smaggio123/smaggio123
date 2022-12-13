@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smaggio123&repo=Mastermind-Angular)](https://github.com/smaggio123/Mastermind-Angular)
 
+  <!--
 <div align="left">
 <p>References to Replicate Readme</p>
 <ul>
@@ -44,4 +45,5 @@ Here are some ideas to get you started:
 <li><a href="https://www.sitepoint.com/github-profile-readme/" target="_blank">Language/Framework Icons</a></li>
 </ul>
 </div>
+-->
 </div>
