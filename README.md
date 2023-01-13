@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <hr/>
 <h2>GitHub Stats:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smaggio123&layout=compact&theme=vision-friendly-dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smaggio123&layout=compact&theme=vision-friendly-dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smaggio123&count_private=false&theme=radical)](https://github.com/smaggio123/github-readme-stats)
 <br/>
