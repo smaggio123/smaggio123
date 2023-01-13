@@ -19,22 +19,22 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smaggio123&layout=compact&theme=vision-friendly-dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smaggio123&count_private=false&theme=radical)](https://github.com/smaggio123/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-five-sigma.vercel.app/api?username=smaggio123&count_private=false&theme=radical)](https://github.com/smaggio123/github-readme-stats)
 <br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaggio123&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h2>Favorite Personal Projects</h2>
 <h3><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;Java:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smaggio123&repo=Network-Info-To-XML)](https://github.com/smaggio123/Network-Info-To-XML)
+[![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Network-Info-To-XML)](https://github.com/smaggio123/Network-Info-To-XML)
 
 <h3><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;Python:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smaggio123&repo=tkinterNotepadGUIwithWebscrapingDefinitions)](https://github.com/smaggio123/tkinterNotepadGUIwithWebscrapingDefinitions)
+[![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=tkinterNotepadGUIwithWebscrapingDefinitions)](https://github.com/smaggio123/tkinterNotepadGUIwithWebscrapingDefinitions)
 
 <h3><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;AngularJS:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smaggio123&repo=Mastermind-Angular)](https://github.com/smaggio123/Mastermind-Angular)
+[![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Mastermind-Angular)](https://github.com/smaggio123/Mastermind-Angular)
 
   <!--
 <div align="left">
