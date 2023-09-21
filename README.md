@@ -29,20 +29,34 @@ Here are some ideas to get you started:
   <h3><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp"  alt="CSharp" width="40" height="40"/>&nbsp;Client Processor</h3>
 
   [![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Client-Processor)](https://github.com/smaggio123/Client-Processor.git)
-  <!--Network Info To XML-->
-  <h3><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;Network Info To XML</h3>
 
-  [![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Network-Info-To-XML)](https://github.com/smaggio123/Network-Info-To-XML)
+  <!--Quizlet Clone Front End-->
+  <h3><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;Quizlet Clone Front End</h3>
+
+  [![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Front-End-Flashcard-App)](https://github.com/smaggio123/Front-End-Flashcard-App)
+
+  <!--Quizlet Clone Back End-->
+  <h3><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring"  alt="Spring" width="40" height="40"/>&nbsp;Quizlet Clone Back End</h3>
+
+  [![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Full-Stack-Flashcard-App)](https://github.com/smaggio123/Full-Stack-Flashcard-App)
+
+  <!--Mastermind-->
+<h3><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;Mastermind</h3>
+
+[![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Mastermind-Angular)](https://github.com/smaggio123/Mastermind-Angular)
 
   <!--TKinterNotepadGUI-->
 <h3><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;TKinterNotepadGUI</h3>
 
 [![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=tkinterNotepadGUIwithWebscrapingDefinitions)](https://github.com/smaggio123/tkinterNotepadGUIwithWebscrapingDefinitions)
 
-  <!--Mastermind-->
-<h3><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;Mastermind</h3>
+  <!--Network Info To XML
+  <h3><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;Network Info To XML</h3>
 
-[![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Mastermind-Angular)](https://github.com/smaggio123/Mastermind-Angular)
+  [![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Network-Info-To-XML)](https://github.com/smaggio123/Network-Info-To-XML)
+  -->
+
+
 
   <!--
 <div align="left">
