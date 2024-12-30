@@ -45,10 +45,12 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=Mastermind-Angular)](https://github.com/smaggio123/Mastermind-Angular)
 
-  <!--TKinterNotepadGUI-->
+
+  <!--TKinterNotepadGUI
 <h3><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;TKinterNotepadGUI</h3>
 
 [![Readme Card](https://github-readme-stats-five-sigma.vercel.app/api/pin/?username=smaggio123&repo=tkinterNotepadGUIwithWebscrapingDefinitions)](https://github.com/smaggio123/tkinterNotepadGUIwithWebscrapingDefinitions)
+  -->
 
   <!--Network Info To XML
   <h3><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;Network Info To XML</h3>
