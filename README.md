@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats-five-sigma.vercel.app/api?username=smaggio123&count_private=false&theme=radical)](https://github.com/smaggio123/github-readme-stats)
 <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaggio123&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smaggio123&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <h2>Favorite Personal Projects</h2>
   
